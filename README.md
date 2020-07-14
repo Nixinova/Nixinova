@@ -1,3 +1,6 @@
+![Nixinova](https://nixinova.com/assets/images/logos/nixinova.png)
+![Nixinova's github stats](https://github-readme-stats.vercel.app/api?username=Nixinova)
+
 ## Current projects
 * [NovaSheets](https://GitHub.com/Nixinova/NovaSheets) – a lightweight CSS preprocessor in JavaScript which runs in the browser.
 * [NovaSheets-vscode](https://GitHub.com/Nixinova/NovaSheets-vscode) – a VSCode extension for NovaSheets syntax highlighting.
