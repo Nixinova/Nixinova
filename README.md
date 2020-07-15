@@ -1,13 +1,10 @@
 ![Nixinova](https://nixinova.com/assets/images/logos/nixinova.png)
 ![Nixinova's github stats](https://github-readme-stats.vercel.app/api?username=Nixinova)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Nixinova.Nixinova)
 
 ## Current projects
 * [NovaSheets](https://GitHub.com/Nixinova/NovaSheets) – a lightweight CSS preprocessor in JavaScript which runs in the browser.
 * [NovaSheets-vscode](https://GitHub.com/Nixinova/NovaSheets-vscode) – a VSCode extension for NovaSheets syntax highlighting.
-
-## Planned projects
-* [resourcepackager](https://GitHub.com/Nixinova/resourcepackager)
+* [resourcepacker](https://GitHub.com/Nixinova/resourcepacker) – easily and cleanly package *Minecraft* resource packs from a messy folder.
 
 ## Other repositories
 * [website](https://GitHub.com/Nixinova/NovaSheets) – repository for my website, [Nixinova.com](https://Nixinova.com).
