@@ -5,6 +5,7 @@
 * [NovaSheets](https://GitHub.com/Nixinova/NovaSheets) – a lightweight CSS preprocessor in JavaScript which runs in the browser.
 * [NovaSheets-vscode](https://GitHub.com/Nixinova/NovaSheets-vscode) – a VSCode extension for NovaSheets syntax highlighting.
 * [resourcepacker](https://GitHub.com/Nixinova/resourcepacker) – easily and cleanly package *Minecraft* resource packs from a messy folder.
+* [original-panorama](https://GitHub.com/Nixinova/original-panorama) – a *Minecraft* resource pack that re-adds the original panorama in higher quality.
 
 ## Other repositories
 * [website](https://GitHub.com/Nixinova/NovaSheets) – repository for my website, [Nixinova.com](https://Nixinova.com).
