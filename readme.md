@@ -9,5 +9,5 @@
 * [original-panorama](https://GitHub.com/Nixinova/original-panorama) – a *Minecraft* resource pack that re-adds the original panorama in higher quality.
 
 ## Other repositories
-* [website](https://GitHub.com/Nixinova/NovaSheets) – repository for my website, [Nixinova.com](https://Nixinova.com).
+* [website](https://GitHub.com/Nixinova/website) – repository for my website, [Nixinova.com](https://Nixinova.com).
 * [dynaver](https://GitHub.com/Nixinova/dynaver) – a versioning specification fit for any purpose.
