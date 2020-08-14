@@ -1,4 +1,4 @@
-<img src="https://nixinova.com/assets/images/logos/nixinova.png" height="160px">
+<img src="https://nixinova.com/assets/images/logos/nixinova.png" width="360px">
 
 ![Nixinova's github stats](https://github-readme-stats.vercel.app/api?username=Nixinova)
 
