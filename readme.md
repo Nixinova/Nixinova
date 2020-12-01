@@ -11,6 +11,3 @@
 ## Other repositories
 * [website](https://github.com/Nixinova/website) – repository for my website, [Nixinova.com](https://Nixinova.com).
 * [original-panorama](https://github.com/Nixinova/original-panorama) – a *Minecraft* resource pack that re-adds the original panorama in higher quality.
-
-## Planned projects
-* [key-please](https://github.com/Nixinova/key-please) – a platformer
