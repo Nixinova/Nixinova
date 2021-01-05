@@ -8,11 +8,11 @@
 * [NovaSheets](https://novasheets.nixinova.com)
 
 ## Current projects
-* [NovaSheets](https://github.com/Nixinova/NovaSheets) – a lightweight CSS preprocessor in JavaScript which runs in the browser.
+* [NovaSheets](https://github.com/Nixinova/NovaSheets) – a simple and versatile CSS preprocessor for npn or the browser.
 * [NovaSheets-vscode](https://github.com/Nixinova/NovaSheets-vscode) – a VSCode extension for NovaSheets syntax highlighting.
-* [resourcepacker](https://github.com/Nixinova/resourcepacker) – easily and cleanly package *Minecraft* resource packs from a messy folder.
+* [resourcepacker](https://github.com/Nixinova/resourcepacker) – easily and cleanly package *Minecraft* resource packs into a clean output folder.
 
 ## Other repositories
-* [website](https://github.com/Nixinova/website) – repository for my website, [Nixinova.com](https://Nixinova.com).
+* [website](https://github.com/Nixinova/website) – repository for my website, [Nixinova.com](https://Nixinova.com), and subdomains, including [Nixinova News](https://news.nixinova.com).
 * [original-panorama](https://github.com/Nixinova/original-panorama) – a *Minecraft* resource pack that re-adds the original panorama in higher quality.
 * [dynaver](https://github.com/Nixinova/dynaver) – a versioning specification fit for any purpose.
