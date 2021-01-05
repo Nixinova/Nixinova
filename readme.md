@@ -8,7 +8,7 @@
 * [NovaSheets](https://novasheets.nixinova.com)
 
 ## Current projects
-* [NovaSheets](https://github.com/Nixinova/NovaSheets) – a simple and versatile CSS preprocessor for npn or the browser.
+* [NovaSheets](https://github.com/Nixinova/NovaSheets) – a simple and versatile CSS preprocessor for npm or the browser.
 * [NovaSheets-vscode](https://github.com/Nixinova/NovaSheets-vscode) – a VSCode extension for NovaSheets syntax highlighting.
 * [resourcepacker](https://github.com/Nixinova/resourcepacker) – easily and cleanly package *Minecraft* resource packs into a clean output folder.
 
