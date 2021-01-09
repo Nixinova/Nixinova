@@ -1,6 +1,6 @@
 <img src="https://nixinova.com/assets/images/logos/nixinova.png" width="360px">
 
-![Nixinova's GitHub stats](https://metrics.lecoq.io/nixinova)
+![Nixinova's GitHub stats](https://metrics.lecoq.io/Nixinova?template=classic&isocalendar=1&isocalendar.duration=full-year)
 
 ## Websites
 * [Nixinova.com](https://nixinova.com)
