@@ -1,6 +1,6 @@
 <img src="https://nixinova.com/assets/images/logos/nixinova.png" width="360px">
 
-![Nixinova's github stats](https://github-readme-stats.vercel.app/api?username=Nixinova)
+![Nixinova's GitHub stats](https://metrics.lecoq.io/nixinova)
 
 ## Websites
 * [Nixinova.com](https://nixinova.com)
