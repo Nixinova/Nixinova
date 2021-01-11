@@ -3,7 +3,7 @@
 ![Nixinova's GitHub stats](https://metrics.lecoq.io/Nixinova?template=classic&followup=1&pagespeed=false&isocalendar=1&languages=1&languages.ignored=NWScript&isocalendar.duration=full-year)
 
 ## Organisations
-@NovaSheets
+[@NovaSheets](https://github.com/NovaSheets)
 
 ## Websites
 * [Nixinova.com](https://nixinova.com)
