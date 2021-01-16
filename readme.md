@@ -20,4 +20,3 @@
 * [dynaver](https://github.com/Nixinova/dynaver) – a versioning specification fit for any purpose.
 * [original-panorama](https://github.com/Nixinova/original-panorama) – a *Minecraft* resource pack that re-adds the original panorama in higher quality.
 * [website](https://github.com/Nixinova/website) – source code of my website, [Nixinova.com](https://nixinova.com).
-* [News](https://github.com/Nixinova/News) – source code of [Nixinova News](https://news.nixinova.com).
