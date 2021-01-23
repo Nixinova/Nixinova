@@ -17,6 +17,7 @@
   * [vscode](https://github.com/NovaSheets/vscode) – a VSCode extension for NovaSheets syntax highlighting.
   * [website](https://github.com/NovaSheets/website) – source code of the [NovaSheets website](https://novasheets.nixinova.com).
 * [resourcepacker](https://github.com/Nixinova/resourcepacker) – easily and cleanly package *Minecraft* resource packs into a clean output folder.
+* [pack-format](https://github.com/Nixinova/pack-format) – retrieve the `pack_format` of any *Minecraft* version.
 * [Mineo](https://github.com/Nixinova/Mineo) – a blocky puzzle sandbox game in early development.
 * [dynaver](https://github.com/Nixinova/dynaver) – a versioning specification fit for any purpose.
 * [original-panorama](https://github.com/Nixinova/original-panorama) – a *Minecraft* resource pack that re-adds the original panorama in higher quality.
