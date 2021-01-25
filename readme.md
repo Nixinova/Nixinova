@@ -1,7 +1,7 @@
 <img src="https://nixinova.com/assets/images/logos/nixinova.png" width="360px">
 
-[![Nixinova's GitHub stats](https://metrics.lecoq.io/Nixinova?template=classic&isocalendar=1&isocalendar.duration=full-year&languages=1)
-](https://metrics.lecoq.io/Nixinova?template=classic&isocalendar=1&isocalendar.duration=full-year&languages=1)
+[![Nixinova's GitHub stats](https://metrics.lecoq.io/Nixinova?template=classic&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year)
+](https://metrics.lecoq.io/Nixinova?template=classic&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year)
 
 ## Organisations
 [@NovaSheets](https://github.com/NovaSheets)
