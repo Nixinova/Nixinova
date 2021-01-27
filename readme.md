@@ -19,7 +19,7 @@
 * [resourcepacker](https://github.com/Nixinova/resourcepacker) – easily and cleanly package *Minecraft* resource packs into a clean output folder.
 * [pack-format](https://github.com/Nixinova/pack-format) – retrieve the `pack_format` of any *Minecraft* version.
 * [SkyWars](https://github.com/Nixinova/SkyWars) – data pack for playing SkyWars in vanilla *Minecraft*.
-* [Modfile](https://github.com/Nixinova/Modfile) – create *Minecraft* mods from one file, without Java or an IDE
+* [Modcrafter](https://github.com/Nixinova/Modcrafter) – create *Minecraft* mods from one file, without Java or an IDE
 * [Mineo](https://github.com/Nixinova/Mineo) – a blocky puzzle sandbox game in early development.
 * [dynaver](https://github.com/Nixinova/dynaver) – a versioning specification fit for any purpose.
 * [original-panorama](https://github.com/Nixinova/original-panorama) – a *Minecraft* resource pack that re-adds the original panorama in higher quality.
