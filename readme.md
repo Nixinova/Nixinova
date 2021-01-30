@@ -1,6 +1,6 @@
 <img src="https://nixinova.com/assets/images/logos/nixinova.png" width="360px">
 
-[![Nixinova's GitHub stats](https://metrics.lecoq.io/Nixinova?template=classic&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year)
+[![Nixinova's GitHub stats](https://metrics.lecoq.io/Nixinova?purge&template=classic&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year)
 ](https://metrics.lecoq.io/Nixinova?template=classic&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year)
 
 ## Organisations
@@ -17,11 +17,11 @@
   * [vscode](https://github.com/NovaSheets/vscode) – a VSCode extension for NovaSheets syntax highlighting.
   * [website](https://github.com/NovaSheets/website) – source code of the [NovaSheets website](https://novasheets.nixinova.com).
 * [resourcepacker](https://github.com/Nixinova/resourcepacker) – easily and cleanly package *Minecraft* resource packs into a clean output folder.
-* [pack-format](https://github.com/Nixinova/pack-format) – retrieve the `pack_format` of any *Minecraft* version.
+* [pack-format](https://github.com/Nixinova/pack-format) – retrieve the pack_format of any *Minecraft* version.
 * [SkyWars](https://github.com/Nixinova/SkyWars) – data pack for playing SkyWars in vanilla *Minecraft*.
-* [MusicalBlocks](https://github.com/Nixinova/MusicalBlocks) – data pack for playing the Musical Blocks minigame in vanilla *Minecraft*.
+* [Musical-Blocks](https://github.com/Nixinova/MusicalBlocks) – data pack for playing the Musical Blocks minigame in vanilla *Minecraft*.
 * [Modcrafter](https://github.com/Nixinova/Modcrafter) – create *Minecraft* mods from one file, without Java or an IDE
 * [Mineo](https://github.com/Nixinova/Mineo) – a blocky puzzle sandbox game in early development.
-* [dynaver](https://github.com/Nixinova/dynaver) – a versioning specification fit for any purpose.
-* [original-panorama](https://github.com/Nixinova/original-panorama) – a *Minecraft* resource pack that re-adds the original panorama in higher quality.
+* [DynaVer](https://github.com/Nixinova/DynaVer) – a versioning specification fit for any purpose.
+* [Original-Panorama](https://github.com/Nixinova/Original-Panorama) – a *Minecraft* resource pack that re-adds the original panorama in higher quality.
 * [website](https://github.com/Nixinova/website) – source code of my website, [Nixinova.com](https://nixinova.com).
