@@ -1,7 +1,13 @@
 <img src="https://nixinova.com/assets/images/logos/nixinova.png" width="360px">
 
-[![Nixinova's GitHub stats](https://metrics.lecoq.io/Nixinova?purge&template=classic&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year)
-](https://metrics.lecoq.io/Nixinova?template=classic&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year)
+[![Base GitHub stats](https://metrics.lecoq.io/Nixinova?template=classic&base.metadata=0)
+](https://metrics.lecoq.io/Nixinova?template=classic&base.metadata=0)
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixinova&langs_count=8&layout=compact&theme=radical)
+](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixinova&langs_count=8&layout=compact&theme=radical)
+
+[![Nixinova's GitHub stats](https://metrics.lecoq.io/Nixinova?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year)
+](https://metrics.lecoq.io/Nixinova?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year)
 
 ## Organisations
 [@NovaSheets](https://github.com/NovaSheets)
