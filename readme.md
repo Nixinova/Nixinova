@@ -1,7 +1,7 @@
 <img src="https://nixinova.com/assets/images/logos/nixinova.png" width="360px">
 
-[![Base GitHub stats](https://metrics.lecoq.io/Nixinova?template=classic&base.metadata=0)
-](https://metrics.lecoq.io/Nixinova?template=classic&base.metadata=0)
+[![Base GitHub stats](https://metrics.lecoq.io/Nixinova?template=classic&base.metadata=0&languages=0)
+](https://metrics.lecoq.io/Nixinova?template=classic&base.metadata=0&languages=0)
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixinova&langs_count=8&layout=compact&theme=radical)
 ](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixinova&langs_count=8&layout=compact&theme=radical)
