@@ -16,7 +16,7 @@ jobs:
 
           template: classic
           base: header, activity, community, repositories
-          repositories_affiliations: collaborator
+          repositories_affiliations: ''
 
           plugin_pagespeed: yes
           plugin_languages: yes
