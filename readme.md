@@ -1,12 +1,9 @@
 <img src="https://nixinova.com/assets/images/logos/nixinova.png" width="360px">
 
-[![GitHub stats](https://metrics.lecoq.io/Nixinova?template=classic&base.metadata=0&pagespeed=1&languages=1&languages.details=percentage&repositories.affiliations=&isocalendar=1&isocalendar.duration=full-year)
-               ](https://metrics.lecoq.io/Nixinova?template=classic&base.metadata=0&pagespeed=1&languages=1&languages.details=percentage&repositories.affiliations=&isocalendar=1&isocalendar.duration=full-year)
+![GitHub stats](https://raw.githubusercontent.com/Nixinova/Nixinova/metrics/github-metrics.svg)
 
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtube.com/NixinovaYT)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
-](https://twitter.com/Nixinova)
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/NixinovaYT)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nixinova)
 
 ## Websites
 * [Nixinova.com](https://nixinova.com)
