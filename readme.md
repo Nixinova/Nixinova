@@ -12,12 +12,12 @@
 
 ## Projects
 * **[@NovaSheets](https://github.com/NovaSheets)**
-  * [NovaSheets](https://github.com/NovaSheets/NovaSheets) – a simple and versatile CSS preprocessor for npm or the browser.
+  * [NovaSheets](https://github.com/NovaSheets/NovaSheets) – a simple and versatile CSS preprocessor for Node or the browser.
   * [vscode](https://github.com/NovaSheets/vscode) – a VSCode extension for NovaSheets syntax highlighting.
   * [website](https://github.com/NovaSheets/website) – source code of the [NovaSheets website](https://novasheets.nixinova.com).
-* [Modcrafter](https://github.com/Nixinova/Modcrafter) – create *Minecraft* mods from one file, without Java or an IDE
-* [resourcepacker](https://github.com/Nixinova/resourcepacker) – easily and cleanly package *Minecraft* resource packs into a clean output folder.
-* [pack-format](https://github.com/Nixinova/pack-format) – retrieve the pack_format of any *Minecraft* version.
+* [Modcrafter](https://github.com/Nixinova/Modcrafter) – create *Minecraft* mods without Java or an IDE
+* [resourcepacker](https://github.com/Nixinova/resourcepacker) – easily package *Minecraft* resource packs into a clean output folder.
+* [pack-format](https://github.com/Nixinova/pack-format) – retrieve the pack format of any *Minecraft* version.
 * [SkyWars](https://github.com/Nixinova/SkyWars) – data pack for playing SkyWars in vanilla *Minecraft*.
 * [Musical-Blocks](https://github.com/Nixinova/MusicalBlocks) – data pack for playing the Musical Blocks minigame in vanilla *Minecraft*.
 * [Mineo](https://github.com/Nixinova/Mineo) – a blocky puzzle sandbox game in early development.
