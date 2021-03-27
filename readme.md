@@ -18,6 +18,7 @@
 * [Modcrafter](https://github.com/Nixinova/Modcrafter) – create *Minecraft* mods without Java or an IDE
 * [resourcepacker](https://github.com/Nixinova/resourcepacker) – easily package *Minecraft* resource packs into a clean output folder.
 * [pack-format](https://github.com/Nixinova/pack-format) – retrieve the pack format of any *Minecraft* version.
+* [Wikity](https://github.com/Nixinova/Wikity) – compile wikitext into HTML, with built-in Eleventy support.
 * [SkyWars](https://github.com/Nixinova/SkyWars) – data pack for playing SkyWars in vanilla *Minecraft*.
 * [Musical-Blocks](https://github.com/Nixinova/MusicalBlocks) – data pack for playing the Musical Blocks minigame in vanilla *Minecraft*.
 * [Mineo](https://github.com/Nixinova/Mineo) – a blocky puzzle sandbox game in early development.
