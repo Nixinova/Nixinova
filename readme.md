@@ -18,6 +18,7 @@
 * [Wikity](https://github.com/Nixinova/Wikity) – compile wikitext into HTML, with built-in Eleventy support.
 * [resourcepacker](https://github.com/Nixinova/resourcepacker) – easily package *Minecraft* resource packs into a clean output folder.
 * [pack-format](https://github.com/Nixinova/pack-format) – retrieve the pack format of any *Minecraft* version.
+* [ModManager](https://github.com/Nixinova/ModManager) – easily manage Minecraft Forge mods.
 * [Modcrafter](https://github.com/Nixinova/Modcrafter) – create *Minecraft* mods without Java or an IDE
 * [SkyWars](https://github.com/Nixinova/SkyWars) – data pack for playing SkyWars in vanilla *Minecraft*.
 * [Musical-Blocks](https://github.com/Nixinova/MusicalBlocks) – data pack for playing the Musical Blocks minigame in vanilla *Minecraft*.
