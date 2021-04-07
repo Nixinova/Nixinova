@@ -27,3 +27,4 @@
 * [Original-Panorama](https://github.com/Nixinova/Original-Panorama) – a *Minecraft* resource pack that re-adds the original panorama in higher quality.
 * [Nova.tmLanguage](https://github.com/Nixinova/Nova.tmLanguage) – various TextMate syntax highlighting/grammar files.
 * [Website](https://github.com/Nixinova/Website) – source code of my website, [Nixinova.com](https://nixinova.com).
+* [HiveMC](https://github.com/Nixinova/HiveMC) – an archive of the HiveMC server.
