@@ -17,6 +17,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           repositories_affiliations: ''
+          config_timezone: Pacific/Auckland # NZT
 
           plugin_lines: yes
 
