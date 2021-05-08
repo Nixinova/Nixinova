@@ -15,9 +15,9 @@
   * [NovaSheets](https://github.com/NovaSheets/NovaSheets) – a simple and versatile CSS preprocessor for Node or the browser.
   * [vscode](https://github.com/NovaSheets/vscode) – a VSCode extension for NovaSheets syntax highlighting.
   * [website](https://github.com/NovaSheets/website) – source code of the [NovaSheets website](https://novasheets.nixinova.com).
-* [Wikity](https://github.com/Nixinova/Wikity) – compile wikitext into HTML, with built-in Eleventy support.
 * [resourcepacker](https://github.com/Nixinova/resourcepacker) – easily package *Minecraft* resource packs into a clean output folder.
 * [pack-format](https://github.com/Nixinova/pack-format) – retrieve the pack format of any *Minecraft* version.
+* [Wikity](https://github.com/Nixinova/Wikity) – compile wikitext into HTML, with built-in Eleventy support.
 * [ModManager](https://github.com/Nixinova/ModManager) – easily manage Minecraft Forge mods.
 * [Modcrafter](https://github.com/Nixinova/Modcrafter) – create *Minecraft* mods without Java or an IDE
 * [SkyWars](https://github.com/Nixinova/SkyWars) – data pack for playing SkyWars in vanilla *Minecraft*.
