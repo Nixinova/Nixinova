@@ -24,6 +24,7 @@
 * [Musical-Blocks](https://github.com/Nixinova/MusicalBlocks) – data pack for playing the Musical Blocks minigame in vanilla *Minecraft*.
 * [Mineo](https://github.com/Nixinova/Mineo) – a blocky puzzle sandbox game in early development.
 * [Evolver](https://github.com/Nixinova/Evolver) – simulate evolution through natural selection.
+* [tts](https://github.com/Nixinova/tts) – convert text to IPA from Wiktionary or a guess.
 * [DynaVer](https://github.com/Nixinova/DynaVer) – a versioning specification fit for any purpose.
 * [Original-Panorama](https://github.com/Nixinova/Original-Panorama) – a *Minecraft* resource pack that re-adds the original panorama in higher quality.
 * [Nova.tmLanguage](https://github.com/Nixinova/Nova.tmLanguage) – various TextMate syntax highlighting/grammar files.
