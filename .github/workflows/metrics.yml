@@ -19,6 +19,9 @@ jobs:
           repositories_affiliations: ''
           config_timezone: Pacific/Auckland # NZT
 
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+
           plugin_lines: yes
 
           plugin_languages: yes
