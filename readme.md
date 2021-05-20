@@ -23,6 +23,7 @@
 * [SkyWars](https://github.com/Nixinova/SkyWars) – data pack for playing SkyWars in vanilla *Minecraft*.
 * [Musical-Blocks](https://github.com/Nixinova/MusicalBlocks) – data pack for playing the Musical Blocks minigame in vanilla *Minecraft*.
 * [Mineo](https://github.com/Nixinova/Mineo) – a blocky puzzle sandbox game in early development.
+* [WikiMax](https://github.com/Nixinova/WikiMax) – consolidate your wiki browsing experience.
 * [Evolver](https://github.com/Nixinova/Evolver) – simulate evolution through natural selection.
 * [tts](https://github.com/Nixinova/tts) – convert text to IPA from Wiktionary or a guess.
 * [DynaVer](https://github.com/Nixinova/DynaVer) – a versioning specification fit for any purpose.
