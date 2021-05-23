@@ -26,6 +26,7 @@
 * [WikiMax](https://github.com/Nixinova/WikiMax) – consolidate your wiki browsing experience.
 * [Evolver](https://github.com/Nixinova/Evolver) – simulate evolution through natural selection.
 * [TTS](https://github.com/Nixinova/tts) – convert text to IPA from Wiktionary or a guess.
+* [Minecraft-Versions](https://github.com/Nixinova/Minecraft-Versions) – complete list of Minecraft versions.
 * [NZPolls](https://github.com/Nixinova/nzpolls) – New Zealand election polling data aggregation.
 * [DynaVer](https://github.com/Nixinova/DynaVer) – a versioning specification fit for any purpose.
 * [Original-Panorama](https://github.com/Nixinova/Original-Panorama) – a *Minecraft* resource pack that re-adds the original panorama in higher quality.
