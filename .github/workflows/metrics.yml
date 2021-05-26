@@ -15,7 +15,6 @@ jobs:
           committer_branch: metrics
 
           template: classic
-          base: header, activity, community, repositories
           repositories_affiliations: ''
           config_timezone: Pacific/Auckland # NZT
 
