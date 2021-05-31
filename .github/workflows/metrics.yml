@@ -30,7 +30,7 @@ jobs:
           plugin_languages_details: percentage, lines
           plugin_languages_sections: most-used, recently-used
           plugin_languages_colors: "less:#261f7a"
-          plugin_languages_recent_days: 30
+          plugin_languages_recent_days: 14
           plugin_languages_indepth: yes
 
           plugin_gists: yes
@@ -49,4 +49,4 @@ jobs:
 
           plugin_reactions: yes
           plugin_reactions_details: count
-          plugin_reactions_limit: 500
+          plugin_reactions_limit: 200
