@@ -8,7 +8,8 @@
 ## Websites
 * [Nixinova.com](https://nixinova.com)
 * [Nixinova News](https://news.nixinova.com)
-* [NovaSheets](https://novasheets.nixinova.com)
+* [NovaSheets](https://novasheets.js.org)
+* [CarbonChess](https://carbonchess.com)
 
 ## Projects
 
@@ -16,10 +17,10 @@
 * **[@NovaSheets](https://github.com/NovaSheets)**
   * [NovaSheets](https://github.com/NovaSheets/NovaSheets) – a simple and versatile CSS preprocessor for Node or the browser.
   * [vscode](https://github.com/NovaSheets/vscode) – a VSCode extension for NovaSheets syntax highlighting.
-  * [website](https://github.com/NovaSheets/website) – source code of the [NovaSheets website](https://novasheets.nixinova.com).
+  * [Website](https://github.com/NovaSheets/Website) – source code of the [NovaSheets website](https://novasheets.js.org).
 * **[@CarbonChess](https://github.com/CarbonChess)**
-  * [Website](https://github.com/CarbonChess/Website)
-  * [FenFurnace](https://github.com/CarbonChess/FenFurnace)
+  * [Website](https://github.com/CarbonChess/Website) – source code of the [CarbonChess website](https://carbonchess.com).
+  * [FenFurnace](https://github.com/CarbonChess/FenFurnace) – a chess move validator.
 
 ### Packages
 * [resourcepacker](https://github.com/Nixinova/resourcepacker) – easily package *Minecraft* resource packs into a clean output folder.
@@ -40,7 +41,7 @@
 ### Miscellaneous
 * [Website](https://github.com/Nixinova/Website) – source code of my website, [Nixinova.com](https://nixinova.com).
 * [DynaVer](https://github.com/Nixinova/DynaVer) – a versioning specification fit for any purpose.
-* [Nova.tmLanguage](https://github.com/Nixinova/Nova.tmLanguage) – various TextMate syntax highlighting/grammar files.
+* [Nova-tmLanguage](https://github.com/Nixinova/Nova.tmLanguage) – various TextMate syntax highlighting/grammar files.
 * [WikiMax](https://github.com/Nixinova/WikiMax) – consolidate your wiki browsing experience.
 * [TTS](https://github.com/Nixinova/tts) – convert text to IPA from Wiktionary or a guess.
 * [NZPolls](https://github.com/Nixinova/nzpolls) – New Zealand election polling data aggregation.
