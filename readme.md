@@ -26,6 +26,7 @@
 * [resourcepacker](https://github.com/Nixinova/resourcepacker) – easily package *Minecraft* resource packs into a clean output folder.
 * [pack-format](https://github.com/Nixinova/pack-format) – retrieve the pack format of any *Minecraft* version.
 * [Wikity](https://github.com/Nixinova/Wikity) – compile wikitext into HTML, with built-in Eleventy support.
+* [Linguist](https://github.com/Nixinova/Linguist) – analyse all languages found in a folder.
 * [ModManager](https://github.com/Nixinova/ModManager) – easily manage Minecraft Forge mods.
 
 ### Programs
