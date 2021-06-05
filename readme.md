@@ -28,6 +28,7 @@
 * [Wikity](https://github.com/Nixinova/Wikity) – compile wikitext into HTML, with built-in Eleventy support.
 * [Linguist](https://github.com/Nixinova/Linguist) – analyse all languages found in a folder.
 * [ModManager](https://github.com/Nixinova/ModManager) – easily manage Minecraft Forge mods.
+* [Minecraft-Versions](https://github.com/Nixinova/Minecraft-Versions) – a complete list of all *Minecraft* versions.
 
 ### Programs
 * [Modcrafter](https://github.com/Nixinova/Modcrafter) – create *Minecraft* mods without Java or an IDE.
