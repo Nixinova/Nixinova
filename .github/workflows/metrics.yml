@@ -32,15 +32,12 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_colors: "less:#261f7a"
           plugin_languages_aliases: "less:NovaSheets"
-          plugin_languages_recent_days: 30
           plugin_languages_indepth: yes
 
           plugin_gists: yes
 
           plugin_pagespeed: yes
           #plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-
-          plugin_habits: yes
 
           plugin_topics: yes
           plugin_topics_sort: stars
