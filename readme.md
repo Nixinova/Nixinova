@@ -33,6 +33,7 @@
 ### Programs
 * [Modcrafter](https://github.com/Nixinova/Modcrafter) – create *Minecraft* mods without Java or an IDE.
 * [Mineo](https://github.com/Nixinova/Mineo) – a blocky puzzle sandbox game in early development.
+* [Blast-Zone](https://github.com/Nixinova/Blast-Zone) – a blocky destruction game in early development.
 
 ### DLC
 * [MoreCommands](https://github.com/Nixinova/MoreCommands) – a *Minecraft* Fabric mod that adds useful commands to the game.
@@ -44,6 +45,5 @@
 * [Website](https://github.com/Nixinova/Website) – source code of my website, [Nixinova.com](https://nixinova.com).
 * [DynaVer](https://github.com/Nixinova/DynaVer) – a versioning specification fit for any purpose.
 * [Nova-tmLanguage](https://github.com/Nixinova/Nova.tmLanguage) – various TextMate syntax highlighting/grammar files.
-* [WikiMax](https://github.com/Nixinova/WikiMax) – consolidate your wiki browsing experience.
 * [TTS](https://github.com/Nixinova/tts) – convert text to IPA from Wiktionary or a guess.
 * [NZPolls](https://github.com/Nixinova/nzpolls) – New Zealand election polling data aggregation.
