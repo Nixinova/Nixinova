@@ -23,6 +23,7 @@ jobs:
           config_timezone: Pacific/Auckland # NZT
 
           plugin_lines: yes
+          plugin_traffic: yes
 
           plugin_followup: yes
           plugin_followup_sections: repositories, user
