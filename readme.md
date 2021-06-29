@@ -2,6 +2,7 @@
 
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/NixinovaYT)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nixinova)
+[![Steam](https://img.shields.io/badge/steam-black.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Nixinova)
 
 ![GitHub stats](https://raw.githubusercontent.com/Nixinova/Nixinova/metrics/github-metrics.svg)
 
