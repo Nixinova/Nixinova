@@ -19,7 +19,7 @@ jobs:
 
           template: classic
           repositories_affiliations: ''
-          commits_authoring: Nixinova@users.noreply.github.com, 42429413+Nixinova@users.noreply.github.com
+          commits_authoring: nixinova@gmail.com, Nixinova@users.noreply.github.com, 42429413+Nixinova@users.noreply.github.com
           config_timezone: Pacific/Auckland # NZT
 
           plugin_lines: yes
