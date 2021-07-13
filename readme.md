@@ -23,7 +23,7 @@
   * [Website](https://github.com/CarbonChess/Website) – source code of the [CarbonChess website](https://carbonchess.com).
   * [FenFurnace](https://github.com/CarbonChess/FenFurnace) – a chess move validator.
 
-### Packages
+### Node Packages
 * [resourcepacker](https://github.com/Nixinova/resourcepacker) – easily package *Minecraft* resource packs into a clean output folder.
 * [pack-format](https://github.com/Nixinova/pack-format) – retrieve the pack format of any *Minecraft* version.
 * [Wikity](https://github.com/Nixinova/Wikity) – compile wikitext into HTML, with built-in Eleventy support.
@@ -31,12 +31,15 @@
 * [ModManager](https://github.com/Nixinova/ModManager) – easily manage Minecraft Forge mods.
 * [Minecraft-Versions](https://github.com/Nixinova/Minecraft-Versions) – a complete list of all *Minecraft* versions.
 
+### Extensions
+* [Astro-vscode](https://github.com/Nixinova/Astro-vscode) – VSCode language support for Astro files.
+
 ### Programs
 * [Modcrafter](https://github.com/Nixinova/Modcrafter) – create *Minecraft* mods without Java or an IDE.
 * [Mineo](https://github.com/Nixinova/Mineo) – a blocky puzzle sandbox game in early development.
 * [Blast-Zone](https://github.com/Nixinova/Blast-Zone) – a blocky destruction game in early development.
 
-### DLC
+### Game DLC
 * [MoreCommands](https://github.com/Nixinova/MoreCommands) – a *Minecraft* Fabric mod that adds useful commands to the game.
 * [SkyWars](https://github.com/Nixinova/SkyWars) – data pack for playing SkyWars in vanilla *Minecraft*.
 * [Musical-Blocks](https://github.com/Nixinova/MusicalBlocks) – data pack for playing the Musical Blocks minigame in vanilla *Minecraft*.
