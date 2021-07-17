@@ -49,6 +49,6 @@
 ### Miscellaneous
 * [Website](https://github.com/Nixinova/Website) – source code of my website, [Nixinova.com](https://nixinova.com).
 * [DynaVer](https://github.com/Nixinova/DynaVer) – a versioning specification fit for any purpose.
-* [Nova-tmLanguage](https://github.com/Nixinova/Nova.tmLanguage) – various TextMate syntax highlighting/grammar files.
+* [NovaGrammars](https://github.com/Nixinova/NovaGrammars) – various TextMate syntax highlighting grammar files.
 * [TTS](https://github.com/Nixinova/tts) – convert text to IPA from Wiktionary or a guess.
 * [NZPolls](https://github.com/Nixinova/nzpolls) – New Zealand election polling data aggregation.
