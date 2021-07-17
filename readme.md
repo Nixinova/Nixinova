@@ -38,6 +38,7 @@
 * [Modcrafter](https://github.com/Nixinova/Modcrafter) – create *Minecraft* mods without Java or an IDE.
 * [Mineo](https://github.com/Nixinova/Mineo) – a blocky puzzle sandbox game in early development.
 * [Blast-Zone](https://github.com/Nixinova/Blast-Zone) – a blocky destruction game in early development.
+* [Prowl](https://github.com/Nixinova/Prowl) – an internet investigation simulator.
 
 ### Game DLC
 * [MoreCommands](https://github.com/Nixinova/MoreCommands) – a *Minecraft* Fabric mod that adds useful commands to the game.
