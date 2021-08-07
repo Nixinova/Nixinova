@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: Nixinova/fork_metrics@sort-discussions
+      - uses: Nixinova/fork_metrics@remove-unused-installs
         with:
 
           token: ${{ secrets.METRICS_TOKEN }}
