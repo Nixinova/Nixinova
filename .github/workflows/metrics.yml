@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: Nixinova/fork_metrics@language-customisation
+      - uses: Nixinova/fork_metrics@load-all-colors
         with:
 
           token: ${{ secrets.METRICS_TOKEN }}
