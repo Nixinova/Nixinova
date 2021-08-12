@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: Nixinova/fork_metrics@language-colors
+      - uses: Nixinova/fork_metrics@language-customisation
         with:
 
           token: ${{ secrets.METRICS_TOKEN }}
@@ -33,7 +33,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: percentage, lines
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_colors: "less:#261f7a, 0:#00ff00"
+          plugin_languages_colors: "less:#261f7a, 7:#005500"
           plugin_languages_aliases: "less:NovaSheets"
           plugin_languages_indepth: yes
 
