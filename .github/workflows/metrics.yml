@@ -1,16 +1,12 @@
 name: Metrics
 on:
-  push:
-    branches: [main]
-  schedule: 
-    - cron: "0 18 * * *"
   workflow_dispatch: # enabled
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: Nixinova/fork_metrics@load-all-colors
+      - uses: Nixinova/fork_metrics@language-customisation
         with:
 
           token: ${{ secrets.METRICS_TOKEN }}
@@ -36,6 +32,7 @@ jobs:
           plugin_languages_colors: "less:#261f7a, 7:#005500"
           plugin_languages_aliases: "less:NovaSheets"
           plugin_languages_indepth: yes
+          plugin_languages_categories: programming
 
           plugin_gists: yes
 
