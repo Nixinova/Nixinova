@@ -34,6 +34,7 @@
 
 ### Extensions
 * [Astro-vscode](https://github.com/Nixinova/Astro-vscode) – VSCode language support for Astro files.
+* [Inlay-Regex](https://github.com/Nixinova/Inlay-Regex) – preview regular expressions as hints in the editor.
 
 ### Programs
 * [Modcrafter](https://github.com/Nixinova/Modcrafter) – create *Minecraft* mods without Java or an IDE.
@@ -51,4 +52,3 @@
 * [Website](https://github.com/Nixinova/Website) – source code of my website, [Nixinova.com](https://nixinova.com).
 * [DynaVer](https://github.com/Nixinova/DynaVer) – a versioning specification fit for any purpose.
 * [NovaGrammars](https://github.com/Nixinova/NovaGrammars) – various TextMate syntax highlighting grammar files.
-* [TTS](https://github.com/Nixinova/tts) – convert text to IPA from Wiktionary or a guess.
