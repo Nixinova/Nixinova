@@ -6,7 +6,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@dependabot-npm_and_yarn-linguist-js-1.6.0
+      - uses: Nixinova/fork_metrics@lang-testing
         with:
 
           token: ${{ secrets.METRICS_TOKEN }}
