@@ -1561,7 +1561,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="179.49483710815184" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="179.49483710815184" y="0" width="125.4279244130628" height="8" fill="#2b7489"/>
                     <rect mask="url(#languages-bar)" x="304.9227615212146" y="0" width="62.38136351541458" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="367.3041250366292" y="0" width="31.21934515422434" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="367.3041250366292" y="0" width="31.21934515422434" height="8" fill="#261f7a"/>
                     <rect mask="url(#languages-bar)" x="398.52347019085363" y="0" width="26.307316969112467" height="8" fill="#E22837"/>
                     <rect mask="url(#languages-bar)" x="424.83078715996606" y="0" width="16.08197304764995" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="440.91276020761603" y="0" width="10.409719282842493" height="8" fill="#b07219"/>
@@ -1623,7 +1623,7 @@
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#1d365d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#261f7a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                       NovaSheets
                     </div>
                             <small>
@@ -1659,7 +1659,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 52 edited files from 141 commits over last 10 days
+            estimation from 52 edited files from 142 commits over last 10 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1673,7 +1673,7 @@
                     <rect mask="url(#languages-bar)" x="437.4441645675903" y="0" width="10.50545759865659" height="8" fill="#384d54"/>
                     <rect mask="url(#languages-bar)" x="447.9496221662469" y="0" width="9.81024349286314" height="8" fill="#a91e50"/>
                     <rect mask="url(#languages-bar)" x="457.75986565911006" y="0" width="1.9311502938706968" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.69101595298076" y="0" width="0.3089840470193115" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="459.69101595298076" y="0" width="0.3089840470193115" height="8" fill="#261f7a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1751,7 +1751,7 @@
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#1d365d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#261f7a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                       NovaSheets
                     </div>
                             <small>
@@ -3866,6 +3866,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">load-all-colors</span></div>
                                     <div class="commit">
+                                        <span class="sha">#02412c6</span>
+                                        <span class="message">Fix overwrite</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">
+                    19/08/2021, 20:13
+                  </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Nixinova/fork_metrics</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">load-all-colors</span></div>
+                                    <div class="commit">
                                         <span class="sha">#d0aa80d</span>
                                         <span class="message">Make sure custom colors are used</span>
                                     </div>
@@ -3944,28 +3966,6 @@
                                 </div>
                                 <div class="timestamp">
                     19/08/2021, 19:39
-                  </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Nixinova/Nixinova</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">testing</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#660e640</span>
-                                        <span class="message">Uses Nixinova/fork_metrics@load-all-colors</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">
-                    19/08/2021, 19:24
                   </div>
                             </section>
                         </div>
@@ -4179,7 +4179,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19/08/2021, 20:08 (timezone Pacific/Auckland) with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 19/08/2021, 20:17 (timezone Pacific/Auckland) with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
