@@ -50,5 +50,6 @@
 
 ### Miscellaneous
 * [Website](https://github.com/Nixinova/Website) – source code of my website, [Nixinova.com](https://nixinova.com).
+* [WikiMax](https://github.com/Nixinova/WikiMax) – consolidate your wiki browsing experience.
 * [DynaVer](https://github.com/Nixinova/DynaVer) – a versioning specification fit for any purpose.
 * [NovaGrammars](https://github.com/Nixinova/NovaGrammars) – various TextMate syntax highlighting grammar files.
