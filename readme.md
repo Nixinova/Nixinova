@@ -30,7 +30,6 @@
 * [Linguist](https://github.com/Nixinova/Linguist) – analyse all languages found in a folder.
 * [ModManager](https://github.com/Nixinova/ModManager) – easily manage Minecraft Forge mods.
 * [Minecraft-Versions](https://github.com/Nixinova/Minecraft-Versions) – a complete list of all *Minecraft* versions.
-* [nzpolls](https://github.com/Nixinova/nzpolls) – an aggregation of New Zealand election polling data.
 
 ### Extensions
 * [Astro-vscode](https://github.com/Nixinova/Astro-vscode) – VSCode language support for Astro files.
@@ -53,3 +52,4 @@
 * [WikiMax](https://github.com/Nixinova/WikiMax) – consolidate your wiki browsing experience.
 * [DynaVer](https://github.com/Nixinova/DynaVer) – a versioning specification fit for any purpose.
 * [NovaGrammars](https://github.com/Nixinova/NovaGrammars) – various TextMate syntax highlighting grammar files.
+* [NZPolls](https://github.com/Nixinova/nzpolls) – New Zealand election polling data aggregation.
