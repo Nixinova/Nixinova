@@ -6,7 +6,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: Nixinova/fork_metrics@load-all-colors
+      - uses: Nixinova/fork_metrics@fix-merge-commits
         with:
 
           token: ${{ secrets.METRICS_TOKEN }}
