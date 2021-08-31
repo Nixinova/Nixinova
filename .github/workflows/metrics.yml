@@ -6,7 +6,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: Nixinova/fork_metrics@fix-merge-commits
+      - uses: Nixinova/fork_metrics@debug/linguist-1.9
         with:
 
           token: ${{ secrets.METRICS_TOKEN }}
