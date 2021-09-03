@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2272" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2364" class="">
     <defs>
         <style/>
     </defs>
@@ -1635,18 +1635,18 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 58 edited files from 41 commits over last 14 days
+            estimation from 55 edited files from 41 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="208.92598595353863" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="208.92598595353863" y="0" width="134.47109670448404" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="343.39708265802267" y="0" width="110.41491085899514" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.81199351701787" y="0" width="4.2247433819557" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.0367368989736" y="0" width="1.9632631010264723" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.34659525631216" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="211.34659525631216" y="0" width="136.02907421576128" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="347.37566947207347" y="0" width="103.67471854847524" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.05038802054867" y="0" width="6.963602579516887" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.01399060006554" y="0" width="1.986009399934419" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1657,7 +1657,7 @@
                     </div>
                             <small>
                                 <div>214 lines</div>
-                                <div>45.42%</div>
+                                <div>45.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1666,8 +1666,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>109 lines</div>
-                                <div>24%</div>
+                                <div>97 lines</div>
+                                <div>22.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1689,7 +1689,7 @@
                     </div>
                             <small>
                                 <div>123 lines</div>
-                                <div>29.23%</div>
+                                <div>29.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1698,8 +1698,8 @@
                       HTML
                     </div>
                             <small>
-                                <div>5 lines</div>
-                                <div>0.92%</div>
+                                <div>6 lines</div>
+                                <div>1.51%</div>
                             </small>
                         </div>
                     </section>
@@ -1740,20 +1740,49 @@
         PageSpeed Insights
       </h2>
                     <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"/>
-                        </svg>
-                    </div>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"/></svg>
+        https://nixinova.com
+      </div>
                 </section>
             </div>
-            <div class="row">
-                <section>
-                    <div class="field error">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/></svg>
-          API returned 429
-        </div>
-                </section>
-            </div>
+            <section>
+                <div class="row fill-width">
+                    <section class="categories">
+                        <div class="category column">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
+                                <circle class="gauge-base" r="53" cx="60" cy="60"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="171.08 329"/>
+                                <text x="60" y="60" dominant-baseline="central">52</text>
+                            </svg>
+                            <span class="title">Performance</span>
+                        </div>
+                        <div class="category column">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+                                <circle class="gauge-base" r="53" cx="60" cy="60"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
+                                <text x="60" y="60" dominant-baseline="central">96</text>
+                            </svg>
+                            <span class="title">Accessibility</span>
+                        </div>
+                        <div class="category column">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+                                <circle class="gauge-base" r="53" cx="60" cy="60"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
+                                <text x="60" y="60" dominant-baseline="central">93</text>
+                            </svg>
+                            <span class="title">Best Practices</span>
+                        </div>
+                        <div class="category column">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+                                <circle class="gauge-base" r="53" cx="60" cy="60"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
+                            </svg>
+                            <span class="title">SEO</span>
+                        </div>
+                    </section>
+                </div>
+            </section>
             <section>
                 <h2 class="field">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M14.184 1.143a1.75 1.75 0 00-2.502-.57L.912 7.916a1.75 1.75 0 00-.53 2.32l.447.775a1.75 1.75 0 002.275.702l11.745-5.656a1.75 1.75 0 00.757-2.451l-1.422-2.464zm-1.657.669a.25.25 0 01.358.081l1.422 2.464a.25.25 0 01-.108.35l-2.016.97-1.505-2.605 1.85-1.26zM9.436 3.92l1.391 2.41-5.42 2.61-.942-1.63 4.97-3.39zM3.222 8.157l-1.466 1a.25.25 0 00-.075.33l.447.775a.25.25 0 00.325.1l1.598-.769-.83-1.436zm6.253 2.306a.75.75 0 00-.944-.252l-1.809.87a.75.75 0 00-.293.253L4.38 14.326a.75.75 0 101.238.848l1.881-2.75v2.826a.75.75 0 001.5 0v-2.826l1.881 2.75a.75.75 0 001.238-.848l-2.644-3.863z"/></svg>
@@ -3814,6 +3843,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">testing</span></div>
                                     <div class="commit">
+                                        <span class="sha">#dcd927e</span>
+                                        <span class="message">Uses lowlighter/metrics@fdbc6cb634b78c99c4b7d9f7904b69fe9f725395</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">
+                    04/09/2021, 09:31
+                  </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Nixinova/Nixinova</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">testing</span></div>
+                                    <div class="commit">
                                         <span class="sha">#780009c</span>
                                         <span class="message">Uses lowlighter/metrics @ c90a41691b0fde015bbaf6991fde19eb86cbfa30</span>
                                     </div>
@@ -3915,22 +3966,6 @@ The code `type X = 'A';let x:X = 'a'.toUpperCase();` should now work.</span>
                                 </div>
                                 <div class="timestamp">
                     04/09/2021, 08:55
-                  </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Created new
-                      branch  <span class="code">generic-string-methods</span> in  <span class="repo">Nixinova/fork_TypeScript</span>
-                    </div>
-                                </div>
-                                <div class="timestamp">
-                    04/09/2021, 08:35
                   </div>
                             </section>
                         </div>
@@ -4144,7 +4179,7 @@ The code `type X = 'A';let x:X = 'a'.toUpperCase();` should now work.</span>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 04/09/2021, 09:20 (timezone Pacific/Auckland) with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 04/09/2021, 09:32 (timezone Pacific/Auckland) with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
