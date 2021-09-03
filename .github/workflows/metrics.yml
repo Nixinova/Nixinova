@@ -6,7 +6,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: Nixinova/fork_metrics@debug/linguist-1.9
+      - uses: lowlighter/metrics@c90a41691b0fde015bbaf6991fde19eb86cbfa30
         with:
 
           token: ${{ secrets.METRICS_TOKEN }}
