@@ -6,7 +6,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@c90a41691b0fde015bbaf6991fde19eb86cbfa30
+      - uses: lowlighter/metrics@fdbc6cb634b78c99c4b7d9f7904b69fe9f725395
         with:
 
           token: ${{ secrets.METRICS_TOKEN }}
