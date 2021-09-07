@@ -6,7 +6,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: Nixinova/fork_metrics@fix/languages-null-error
+      - uses: Nixinova/fork_metrics@debug/languages-bug
         with:
 
           token: ${{ secrets.METRICS_TOKEN }}
