@@ -6,7 +6,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: Nixinova/fork_metrics@debug/languages-bug
+      - uses: lowlighter/metrics@latest
         with:
 
           token: ${{ secrets.METRICS_TOKEN }}
@@ -46,7 +46,7 @@ jobs:
           plugin_topics_limit: 0 # disable
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
           plugin_activity: yes
           plugin_activity_limit: 5
