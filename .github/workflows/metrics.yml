@@ -38,8 +38,6 @@ jobs:
 
           plugin_gists: yes
 
-          plugin_pagespeed: yes
-
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_mode: mastered
