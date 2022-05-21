@@ -52,4 +52,5 @@
 * [WikiMax](https://github.com/Nixinova/WikiMax) – consolidate your wiki browsing experience.
 * [DynaVer](https://github.com/Nixinova/DynaVer) – a versioning specification fit for any purpose.
 * [NovaGrammars](https://github.com/Nixinova/NovaGrammars) – various TextMate syntax highlighting grammar files.
+* [NovaLightshow](https://github.com/Nixinova/NovaLightshow) – a website for previewing TextMate grammar files.
 * [NZPolls](https://github.com/Nixinova/nzpolls) – New Zealand election polling data aggregation.
