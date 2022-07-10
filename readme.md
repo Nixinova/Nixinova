@@ -32,7 +32,6 @@
 * [Minecraft-Versions](https://github.com/Nixinova/Minecraft-Versions) – a complete list of all *Minecraft* versions.
 
 ### Extensions
-* [Astro-vscode](https://github.com/Nixinova/Astro-vscode) – VSCode language support for Astro files.
 * [Inlay-Regex](https://github.com/Nixinova/Inlay-Regex) – preview regular expressions as hints in the editor.
 
 ### Programs
