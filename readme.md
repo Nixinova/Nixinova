@@ -36,12 +36,16 @@
 
 ### Programs
 * [Modcrafter](https://github.com/Nixinova/Modcrafter) – create *Minecraft* mods without Java or an IDE.
+
+### Games
+(All of these are extremely WIP.)
 * [Mineo](https://github.com/Nixinova/Mineo) – a blocky puzzle sandbox game left in early development.
 * [MineoJava](https://github.com/Nixinova/MineoJava) – an attempt to port Mineo to Java.
 * [Blast-Zone](https://github.com/Nixinova/Blast-Zone) – a blocky destruction game in early development.
 * [Prowl](https://github.com/Nixinova/Prowl) – an internet investigation simulator.
 
 ### Game DLC
+Mods, data packs, resource packs, etc.
 * [MoreCommands](https://github.com/Nixinova/MoreCommands) – a *Minecraft* Fabric mod that adds useful commands to the game.
 * [SkyWars](https://github.com/Nixinova/SkyWars) – data pack for playing SkyWars in vanilla *Minecraft*.
 * [Musical-Blocks](https://github.com/Nixinova/MusicalBlocks) – data pack for playing the Musical Blocks minigame in vanilla *Minecraft*.
