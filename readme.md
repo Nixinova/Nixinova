@@ -51,10 +51,13 @@ Mods, data packs, resource packs, etc.
 * [Musical-Blocks](https://github.com/Nixinova/MusicalBlocks) – data pack for playing the Musical Blocks minigame in vanilla *Minecraft*.
 * [Original-Panorama](https://github.com/Nixinova/Original-Panorama) – a *Minecraft* resource pack that re-adds the original panorama in higher quality.
 
+### Versioning
+* [DynaVer](https://github.com/Nixinova/DynaVer) – a versioning specification fit for any purpose.
+* [VersioningSchema](https://github.com/Nixinova/VersioningSchema) – a schema for defining the semantics of a user-defined version format.
+
 ### Miscellaneous
 * [Website](https://github.com/Nixinova/Website) – source code of my website, [Nixinova.com](https://nixinova.com).
 * [WikiMax](https://github.com/Nixinova/WikiMax) – consolidate your wiki browsing experience.
-* [DynaVer](https://github.com/Nixinova/DynaVer) – a versioning specification fit for any purpose.
 * [NovaGrammars](https://github.com/Nixinova/NovaGrammars) – various TextMate syntax highlighting grammar files.
 * [NovaLightshow](https://github.com/Nixinova/NovaLightshow) – a website for previewing TextMate grammar files.
 * [NZPolls](https://github.com/Nixinova/nzpolls) – New Zealand election polling data aggregation.
