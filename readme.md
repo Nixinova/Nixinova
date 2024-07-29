@@ -58,6 +58,7 @@ Mods, data packs, resource packs, etc.
 ### Miscellaneous
 * [Website](https://github.com/Nixinova/Website) – source code of my website, [Nixinova.com](https://nixinova.com).
 * [WikiMax](https://github.com/Nixinova/WikiMax) – consolidate your wiki browsing experience.
+* [Nouva](https://github.com/Nixinova/Nouva) – a custom programming language based on ECMAScript.
 * [NovaGrammars](https://github.com/Nixinova/NovaGrammars) – various TextMate syntax highlighting grammar files.
 * [NovaLightshow](https://github.com/Nixinova/NovaLightshow) – a website for previewing TextMate grammar files.
 * [NZPolls](https://github.com/Nixinova/nzpolls) – New Zealand election polling data aggregation.
