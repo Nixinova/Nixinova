@@ -36,7 +36,7 @@ jobs:
           plugin_languages_recent_categories: programming, markup
           plugin_languages_ignored: EJS
           plugin_languages_other: true
-          #plugin_languages_indepth: yes
+          plugin_languages_indepth: yes
 
           plugin_gists: yes
 
