@@ -38,9 +38,8 @@
 * [Modcrafter](https://github.com/Nixinova/Modcrafter) – create *Minecraft* mods without Java or an IDE.
 
 ### Games
-(All of these are extremely WIP.)
 * [MineoCS](https://github.com/Nixinova/MineoCS) – a blocky sandbox game left in early development.
-* [MineoJava](https://github.com/Nixinova/MineoJava) – a blocky sandbox game engine in early development.
+* [MineoJava](https://github.com/Nixinova/MineoJava) – a blocky sandbox game.
 * [Blast-Zone](https://github.com/Nixinova/Blast-Zone) – a blocky destruction game in early development.
 * [Prowl](https://github.com/Nixinova/Prowl) – an internet investigation simulator in very early development.
 
