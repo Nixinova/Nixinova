@@ -1,7 +1,9 @@
-<img src="https://nixinova.com/assets/images/logos/nixinova.png" width="360px">
+[<img src="https://nixinova.com/assets/images/logos/nixinova.png" width="360px">](https://nixinova.com)
 
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/NixinovaYT)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nixinova)
+[![TikTok](https://img.shields.io/badge/tiktok-%23ff0050.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nixinova)
+[![Instagram](https://img.shields.io/badge/insta-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nixinova)
+[![Threads](https://img.shields.io/badge/threads-%23222222.svg?&style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@nixinova)
 [![Steam](https://img.shields.io/badge/steam-black.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Nixinova)
 
 ![GitHub stats](https://raw.githubusercontent.com/Nixinova/Nixinova/metrics/github-metrics.svg)
