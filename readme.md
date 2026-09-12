@@ -36,6 +36,9 @@
 ### Extensions
 * [Inlay-Regex](https://github.com/Nixinova/Inlay-Regex) – preview regular expressions as hints in the editor.
 
+### Apps
+* [CarstFM](https://github.com/Nixinova/CarstFM) – an Android Auto dashboard for your currently playing Last.fm track.
+
 ### Programs
 * [Modcrafter](https://github.com/Nixinova/Modcrafter) – create *Minecraft* mods without Java or an IDE.
 
